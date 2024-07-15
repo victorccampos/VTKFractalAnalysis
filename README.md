@@ -14,4 +14,5 @@ Once you make all `png` files you can make a video of it by writing in terminal
 ```bash
 ffmpeg -y i 'phasefield_%d.png' 'video_name.m4v' -s 1920x1080
 ```
+Recomended to open with VLC media player.
 
