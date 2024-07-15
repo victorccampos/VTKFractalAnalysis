@@ -9,7 +9,7 @@ boxcount method implemented from Francesco Turci at https://francescoturci.net/2
 
 The `data_analysis.ipynb` is a jupyter notebook used to study the behavior of the fractal dimension of different seed shapes and symmetry parameters.
 
-Once you make all `png` files you can make a video with 
+Once you make all `png` files you can make a video of it by writing in terminal 
 
 ```bash
 ffmpeg -y i 'phasefield_%d.png' 'video_name.m4v' -s 1920x1080
