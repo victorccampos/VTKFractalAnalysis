@@ -1,4 +1,4 @@
-# VTK Fractal Dimension Calculator and VideoMaker  
+# VTK VideoMaker and Fractal Dimension Calculator
 #### The following project was used in a presentation at Encontro de Outono da Sociedade Brasileira de Física de 2024 by the name "Phase Field Simulation of Dendritic Crystal Growth".  
 
 The `main.py` file contains a script that uses a Tkinter interface to select a user specified folder that contains two-dimension ".vtk" files.
